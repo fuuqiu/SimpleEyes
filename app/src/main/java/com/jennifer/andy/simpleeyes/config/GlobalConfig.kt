@@ -45,7 +45,5 @@ class GlobalConfig {
         }
 
         fun getIsAppDebug() = debug
-
-
     }
 }
